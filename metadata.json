@@ -1,0 +1,6 @@
+{
+  "name": "Sky Brew - Rooftop Restaurant & Cafe in Jabalpur",
+  "description": "Sky Brew is a rooftop dining destination in Gwarighat, Jabalpur, serving North Indian, Chinese, pizzas, sandwiches, biryani, desserts and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
